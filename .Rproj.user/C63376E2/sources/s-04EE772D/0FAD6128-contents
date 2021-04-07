@@ -5,10 +5,10 @@
         <span class="site-description">{{site.user_title}}</span>
       </h1>
       <div class="header-icons">
-        <a aria-label="Send email" href="#"><i class="icon fa fa-envelope"></i></a>
-        <a aria-label="My Phone" target="_blank" href="#"><i class="icon fa fa-phone" aria-hidden="true"></i></a>
-        <a aria-label="My Facebook" target="_blank" href="#"><i class="icon fa fa-facebook" aria-hidden="true"></i></a>
-        <a aria-label="My Instagram" target="_blank" href="#"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
+        <a aria-label="Send email" href="matheus.ts@hotmail.com.br"><i class="icon fa fa-envelope"></i></a>
+        <a aria-label="My Phone" target="_blank" href="(31) 99198-2469"><i class="icon fa fa-phone" aria-hidden="true"></i></a>
+        <a aria-label="My Facebook" target="_blank" href="https://www.facebook.com/matheus.silva.94695"><i class="icon fa fa-facebook" aria-hidden="true"></i></a>
+        <a aria-label="My Instagram" target="_blank" href="https://www.instagram.com/matheusoadsilva/"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
       </div>
       <div class="header-links">
         <a class="link" href="#about" data-scroll>Sobre mim</a>
